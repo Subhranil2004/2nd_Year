@@ -1,5 +1,5 @@
 // Implementation of two stacks in a single array
-#define MAX 5
+#define MAX 10
 #include <stdio.h>
 typedef struct
 {
