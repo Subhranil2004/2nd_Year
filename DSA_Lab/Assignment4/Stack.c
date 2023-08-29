@@ -1,5 +1,5 @@
 // Stack implementation using array
-#define SIZE 5
+#define SIZE 10
 #include <stdio.h>
 typedef struct
 {
